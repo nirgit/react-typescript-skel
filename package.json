@@ -1,0 +1,22 @@
+{
+  "name": "React-TS-Skel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nir Moav",
+  "license": "MIT",
+  "devDependencies": {
+    "source-map-loader": "^0.1.5",
+    "ts-loader": "^0.8.2",
+    "typescript": "^1.8.10",
+    "typings": "^1.0.4",
+    "webpack": "^1.13.1"
+  },
+  "dependencies": {
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2"
+  }
+}
