@@ -8,8 +8,9 @@
         "jsx": "react"
     },
     "files": [
-        "./typings/index.d.ts",
-        "./src/components/Hello.tsx",
-        "./src/index.tsx"
+        "./typings/index.d.ts"
+    ],
+    "filesglob": [
+      "./src/**/*.*"
     ]
 }
