@@ -1,9 +1,10 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom";
 
+// import SCSS!
+import "./main.scss";
+
 import { Hello } from "./components/Hello";
 
-ReactDOM.render(
-    <Hello compiler="TypeScript" framework="React" />,
-    document.getElementById("example")
-);
+const mainEl = document.getElementById("main");
+ReactDOM.render(<Hello compiler="TypeScript" framework="React" />, mainEl);
