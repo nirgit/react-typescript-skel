@@ -1,4 +1,2 @@
 # react-typescript-skel
-A skeleton client project for React &amp; Typescript.
-
-
+A skeleton client project using Typescript, React &amp; Sass.
